@@ -1,0 +1,62 @@
+header{
+    text-align: center;
+    height: 130px;
+}
+
+footer{
+    text-align: center;
+    height: 130px;
+}
+.container{
+    padding-left: 10%;
+    padding-right: 0px;
+    margin-left:40px;
+    margin-right:0px;
+}
+
+.form-inline .form-group{
+    margin-bottom: 5px ;
+    /*margin-left : 50px;*/
+    padding-right: 10px;
+
+}
+.form-control{
+    padding:0.1rem 0.1rem;
+    /*line-height: 0.5rem;*/
+}
+
+label {
+
+    padding-right: 6px;
+}
+p {
+    background-color: #c9ffdd;
+    text-align: center;
+    font-size: 0.8rem;
+  }
+
+
+
+#btnAjout{
+    padding-bottom: 13px;
+}
+
+.moncadre {
+    border-style: outset;
+    margin-bottom: 5px;
+}
+
+#nom, #prenom, #adresse1, #adresse2{
+    width :250px;
+}
+
+#email{
+    width: 300px;
+}
+#idPhoto{
+    /*margin: 0 auto;*/
+    /*width: 100px;*/
+}
+#divPhotoAffiche{
+    margin:3px;
+}
